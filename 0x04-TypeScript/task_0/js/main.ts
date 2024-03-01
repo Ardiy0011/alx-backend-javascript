@@ -58,3 +58,5 @@ export const renderTable = (studentsList: Array<Student>): void =>  {
 }
 
 renderTable(studentsList);
+
+
